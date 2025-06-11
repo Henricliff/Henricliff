@@ -42,15 +42,7 @@ I'm a data-driven professional passionate about transforming raw data into actio
 
 - Azure Synapse & Serverless SQL Pools  
 - Advanced DAX in Power BI  
-- Deployment of ML Models using Azure ML Studio
-
----
-
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/henry-onyeka-685678110)
-[Email]_(mailto:onyekaelo@yahoo.com)  
-- [Portfolio Website](https://yourportfolio.com) 
+- Deployment of ML Models using Azure ML Studio.
 
 ---
 
